@@ -134,7 +134,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 635307,
 			"sno" : 3,
+<<<<<<< ours
 			"questiontext" : "In the given figure, <math><mrow><mover><mrow><mi>P</mi><mi>Q</mi></mrow><mo>¯</mo></mover><mo>⊥</mo><mover><mrow><mi>P</mi><mi>S</mi></mrow><mo>¯</mo></mover><mtext> </mtext><mi>a</mi><mi>n</mi><mi>d</mi><mtext> </mtext><mover><mrow><mi>P</mi><mi>Q</mi></mrow><mo>¯</mo></mover><mtext> </mtext><mo>|</mo><mo>|</mo><mtext> </mtext><mtext> </mtext><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo>¯</mo></mover></mrow></math><xml>     </xml>then the value of <math><mrow><mi>x</mi><mo>−</mo><mi>y</mi></mrow></math><xml>     </xml> is  <p><img width='199' height='76' src='/attachment/1569068055029-image003.gif'></img><xml>     </xml></p>",
+=======
+			"questiontext" : "In the given figure, <math><mrow><mover><mrow><mi>P</mi><mi>Q</mi></mrow><mo>Â¯</mo></mover><mo>â¥</mo><mover><mrow><mi>P</mi><mi>S</mi></mrow><mo>Â¯</mo></mover><mtext>â</mtext><mi>a</mi><mi>n</mi><mi>d</mi><mtext>â</mtext><mover><mrow><mi>P</mi><mi>Q</mi></mrow><mo>Â¯</mo></mover><mtext>â</mtext><mo>|</mo><mo>|</mo><mtext>â</mtext><mtext>â</mtext><mover><mrow><mi>S</mi><mi>R</mi></mrow><mo>Â¯</mo></mover></mrow></math><xml>     </xml>then the value of <math><mrow><mi>x</mi><mo>â</mo><mi>y</mi></mrow></math><xml>     </xml> is  <p><img width='199' height='76' src='/attachment/1569068055029-image003.gif'></img><xml>     </xml></p>",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -155,6 +159,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029621,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mn>37</mn><mo>°</mo></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3029622,
@@ -165,6 +170,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3029624,
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>16</mn><mo>°</mo></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mn>37</mn><mo>Â°</mo></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029622,
+			  "choicetext" : "    <math><mrow><mn>53</mn><mo>Â°</mo></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029623,
+			  "choicetext" : "    <math><mrow><mn>16</mn><mo>Â°</mo></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029624,
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>16</mn><mo>Â°</mo></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -176,7 +193,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mo>−</mo><mn>16</mn><mo>°</mo></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mo>â</mo><mn>16</mn><mo>Â°</mo></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -230,7 +251,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 635328,
 			"sno" : 5,
+<<<<<<< ours
 			"questiontext" : "In the adjacent figure AB || CD and <math><mrow><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>¯</mo></mover><mo>|</mo><mo>|</mo><mover><mrow><mi>D</mi><mi>E</mi></mrow><mo>¯</mo></mover></mrow></math><xml>     </xml> then find the value p,  q is  <p><img width='368' height='133' src='/attachment/1569585636814-image002.gif'></img><xml>     </xml></p>",
+=======
+			"questiontext" : "In the adjacent figure AB || CD and <math><mrow><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>Â¯</mo></mover><mo>|</mo><mo>|</mo><mover><mrow><mi>D</mi><mi>E</mi></mrow><mo>Â¯</mo></mover></mrow></math><xml>     </xml> then find the value p,  q is  <p><img width='368' height='133' src='/attachment/1569585636814-image002.gif'></img><xml>     </xml></p>",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -251,6 +276,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3073023,
+<<<<<<< ours
 			  "choicetext" : "    P = 51°, q = 35°  "
 			}, {
 			  "choiceid" : 3073024,
@@ -261,6 +287,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3073026,
 			  "choicetext" : "    P = 35°, q = 105°  "
+=======
+			  "choicetext" : "    P = 51Â°, q = 35Â°  "
+			}, {
+			  "choiceid" : 3073024,
+			  "choicetext" : "    P = 105Â°, q = 35Â°  "
+			}, {
+			  "choiceid" : 3073025,
+			  "choicetext" : "    P = 35Â°, q = 51Â°  "
+			}, {
+			  "choiceid" : 3073026,
+			  "choicetext" : "    P = 35Â°, q = 105Â°  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -272,13 +310,21 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    P = 35°, q = 51°  ",
+=======
+			"solution" : "    P = 35Â°, q = 51Â°  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
 			"questionid" : 635345,
 			"sno" : 6,
+<<<<<<< ours
 			"questiontext" : "Find the value of ‘x’ for which the expression <math><mrow><mi>x</mi><mo>−</mo><mn>15</mn><mtext> </mtext><mi>a</mi><mi>n</mi><mi>d</mi><mtext> </mtext><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></math><xml>     </xml> become equal.",
+=======
+			"questiontext" : "Find the value of âxâ for which the expression <math><mrow><mi>x</mi><mo>â</mo><mn>15</mn><mtext>â</mtext><mi>a</mi><mi>n</mi><mi>d</mi><mtext>â</mtext><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></mrow></math><xml>     </xml> become equal.",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -299,13 +345,21 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029869,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>16</mn></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>16</mn></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3029870,
 			  "choicetext" : "    16  "
 			}, {
 			  "choiceid" : 3029871,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>14</mn></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>14</mn></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3029872,
 			  "choicetext" : "    14  "
@@ -320,13 +374,21 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mo>−</mo><mn>16</mn></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mo>â</mo><mn>16</mn></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
 			"questionid" : 635375,
 			"sno" : 7,
+<<<<<<< ours
 			"questiontext" : "<math><mrow><mn>150</mn><mtext> </mtext><mi>k</mi><mi>g</mi></mrow></math><xml>     </xml> of oil can be filled  in 10 containers. To fill <math><mrow><mn>750</mn><mtext> </mtext><mi>k</mi><mi>g</mi></mrow></math><xml>     </xml>of  oil, how many  containers will be required <math><mo>?</mo></math><xml>     </xml>",
+=======
+			"questiontext" : "<math><mrow><mn>150</mn><mtext>â</mtext><mi>k</mi><mi>g</mi></mrow></math><xml>     </xml> of oil can be filled  in 10 containers. To fill <math><mrow><mn>750</mn><mtext>â</mtext><mi>k</mi><mi>g</mi></mrow></math><xml>     </xml>of  oil, how many  containers will be required <math><mo>?</mo></math><xml>     </xml>",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -443,6 +505,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029489,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mtext> </mtext><mn>8</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3029490,
@@ -450,6 +513,15 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3029491,
 			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>16</mn><mo>,</mo><mtext> </mtext><mn>32</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mtext>â</mtext><mn>8</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029490,
+			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mtext>â</mtext><mn>8</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029491,
+			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>16</mn><mo>,</mo><mtext>â</mtext><mn>32</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3029492,
 			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>4</mn><mo>,</mo><mn>20</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  "
@@ -464,7 +536,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mtext> </mtext><mn>8</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mrow><mo>(</mo><mrow><mn>3</mn><mo>,</mo><mtext>â</mtext><mn>8</mn></mrow><mo>)</mo></mrow></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -491,6 +567,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029509,
+<<<<<<< ours
 			  "choicetext" : "    <b style='mso-bidi-font-weight:normal'><math><mrow><mo>−</mo><mn>32</mn></mrow></math><xml>     </xml></b><b style='mso-bidi-font-weight:normal'></b>  "
 			}, {
 			  "choiceid" : 3029510,
@@ -501,6 +578,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3029512,
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>38</mn></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <b style='mso-bidi-font-weight:normal'><math><mrow><mo>â</mo><mn>32</mn></mrow></math><xml>     </xml></b><b style='mso-bidi-font-weight:normal'></b>  "
+			}, {
+			  "choiceid" : 3029510,
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>34</mn></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029511,
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>36</mn></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029512,
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>38</mn></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -512,13 +601,21 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mo>−</mo><mn>36</mn></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mo>â</mo><mn>36</mn></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
 			"questionid" : 635289,
 			"sno" : 11,
+<<<<<<< ours
 			"questiontext" : " if <math><mrow><mi>a</mi><mtext> </mtext><mo>÷</mo><mtext> </mtext><mi>x</mi><mtext> </mtext><mo>=</mo><mtext> </mtext><mi>a</mi></mrow></math><xml>     </xml>,then x ",
+=======
+			"questiontext" : " if <math><mrow><mi>a</mi><mtext>â</mtext><mo>Ã·</mo><mtext>â</mtext><mi>x</mi><mtext>â</mtext><mo>=</mo><mtext>â</mtext><mi>a</mi></mrow></math><xml>     </xml>,then x ",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -596,7 +693,11 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    Obtuse angles   "
 			}, {
 			  "choiceid" : 3029548,
+<<<<<<< ours
 			  "choicetext" : "    Can’t say  "
+=======
+			  "choicetext" : "    Canât say  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -662,7 +763,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 635298,
 			"sno" : 14,
+<<<<<<< ours
 			"questiontext" : "The  sum of the successor of <math><mrow><mo>−</mo><mn>390</mn></mrow></math><xml>     </xml> and the  predecessor of <math><mrow><mo>−</mo><mn>119</mn></mrow></math><xml>     </xml>is",
+=======
+			"questiontext" : "The  sum of the successor of <math><mrow><mo>â</mo><mn>390</mn></mrow></math><xml>     </xml> and the  predecessor of <math><mrow><mo>â</mo><mn>119</mn></mrow></math><xml>     </xml>is",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -683,7 +788,11 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029577,
+<<<<<<< ours
 			  "choicetext" : "    <b style='mso-bidi-font-weight:normal'><math><mrow><mo>−</mo><mn>507</mn></mrow></math><xml>     </xml></b><b style='mso-bidi-font-weight:normal'></b>  "
+=======
+			  "choicetext" : "    <b style='mso-bidi-font-weight:normal'><math><mrow><mo>â</mo><mn>507</mn></mrow></math><xml>     </xml></b><b style='mso-bidi-font-weight:normal'></b>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3029578,
 			  "choicetext" : "    <math><mrow><mn>508</mn></mrow></math><xml>     </xml>  "
@@ -692,7 +801,11 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    <math><mrow><mn>509</mn></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3029580,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>509</mn></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>509</mn></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -704,13 +817,21 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mo>−</mo><mn>509</mn></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mo>â</mo><mn>509</mn></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
 			"questionid" : 635402,
 			"sno" : 15,
+<<<<<<< ours
 			"questiontext" : "Harita wants to put a lace border all around a  rectangle table cover <math><mrow><mn>2</mn><mtext> </mtext><mi>m</mi></mrow></math><xml>     </xml> long and <math><mrow><mn>1</mn><mtext> </mtext><mi>m</mi></mrow></math><xml>     </xml>wide. Find the length of the lace required by Harita. ",
+=======
+			"questiontext" : "Harita wants to put a lace border all around a  rectangle table cover <math><mrow><mn>2</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml> long and <math><mrow><mn>1</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>wide. Find the length of the lace required by Harita. ",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -731,6 +852,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3029993,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mn>3</mn><mtext> </mtext><mi>m</mi></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3029994,
@@ -741,6 +863,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3029996,
 			  "choicetext" : "    <math><mrow><mn>6</mn><mtext> </mtext><mi>m</mi></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mn>3</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029994,
+			  "choicetext" : "    <math><mrow><mn>4</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029995,
+			  "choicetext" : "    <math><mrow><mn>5</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3029996,
+			  "choicetext" : "    <math><mrow><mn>6</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -752,7 +886,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mn>6</mn><mtext> </mtext><mi>m</mi></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mn>6</mn><mtext>â</mtext><mi>m</mi></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -833,10 +971,17 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    24  "
 			}, {
 			  "choiceid" : 3035795,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>23</mn></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3035796,
 			  "choicetext" : "    <math><mrow><mo>−</mo><mn>24</mn></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>23</mn></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3035796,
+			  "choicetext" : "    <math><mrow><mo>â</mo><mn>24</mn></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -923,6 +1068,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3030029,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mn>2</mn><mtext> </mtext><mi>n</mi></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3030030,
@@ -930,6 +1076,15 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3030031,
 			  "choicetext" : "    <math><mrow><mn>4</mn><mtext> </mtext><mi>n</mi></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mn>2</mn><mtext>â</mtext><mi>n</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3030030,
+			  "choicetext" : "    <math><mrow><mn>3</mn><mtext>â</mtext><mi>n</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3030031,
+			  "choicetext" : "    <math><mrow><mn>4</mn><mtext>â</mtext><mi>n</mi></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3030032,
 			  "choicetext" : "    <math><mrow><mn>5</mn><mi>n</mi></mrow></math><xml>     </xml>  "
@@ -944,7 +1099,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mn>2</mn><mtext> </mtext><mi>n</mi></mrow></math><xml>     </xml>  ",
+=======
+			"solution" : "    <math><mrow><mn>2</mn><mtext>â</mtext><mi>n</mi></mrow></math><xml>     </xml>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -974,10 +1133,17 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    <math><mrow><mfrac><mi>a</mi><mi>b</mi></mfrac></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3035182,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mo>−</mo><mi>a</mi><mtext> </mtext><mi>b</mi></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3035183,
 			  "choicetext" : "    <math><mrow><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>−</mo><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mi>b</mi><mo>−</mo><mi>a</mi></mrow></mfrac></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mo>â</mo><mi>a</mi><mtext>â</mtext><mi>b</mi></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3035183,
+			  "choicetext" : "    <math><mrow><mfrac><mrow><msup><mi>a</mi><mn>2</mn></msup><mi>b</mi><mo>â</mo><mi>a</mi><msup><mi>b</mi><mn>2</mn></msup></mrow><mrow><mi>b</mi><mo>â</mo><mi>a</mi></mrow></mfrac></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3035184,
 			  "choicetext" : "    Both B,C  "
@@ -1194,7 +1360,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 634986,
 			"sno" : 25,
+<<<<<<< ours
 			"questiontext" : "The  correct expression to convert temperature from ºC to ºF is",
+=======
+			"questiontext" : "The  correct expression to convert temperature from ÂºC to ÂºF is",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -1215,6 +1385,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3780052,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mfrac><mrow><mi>C</mi><mo>−</mo><mn>32</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mi>F</mi><mn>5</mn></mfrac></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3780053,
@@ -1225,6 +1396,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3780055,
 			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mi>C</mi><mo>−</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>5</mn><mi>F</mi></mrow><mn>9</mn></mfrac></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mfrac><mrow><mi>C</mi><mo>â</mo><mn>32</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mi>F</mi><mn>5</mn></mfrac></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3780053,
+			  "choicetext" : "    <math><mrow><mfrac><mi>C</mi><mn>9</mn></mfrac><mo>=</mo><mfrac><mrow><mi>F</mi><mo>â</mo><mn>32</mn></mrow><mn>5</mn></mfrac></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3780054,
+			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mi>F</mi><mo>â</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><mi>C</mi></mrow><mn>5</mn></mfrac></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3780055,
+			  "choicetext" : "    <math><mrow><mrow><mo>(</mo><mrow><mi>C</mi><mo>â</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>5</mn><mi>F</mi></mrow><mn>9</mn></mfrac></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -1236,7 +1419,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mfrac><mrow><mi>F</mi><mo>−</mo><mn>32</mn></mrow><mrow><mn>180</mn></mrow></mfrac><mo>=</mo><mfrac><mi>C</mi><mrow><mn>100</mn></mrow></mfrac></mrow></math><xml>     </xml>  <p><math><mrow><mfrac><mrow><mi>F</mi><mo>−</mo><mn>32</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mi>C</mi><mn>5</mn></mfrac></mrow></math><xml>     </xml></p>  <p><math><mrow><mrow><mo>(</mo><mrow><mi>F</mi><mo>−</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><mi>C</mi></mrow><mn>5</mn></mfrac></mrow></math><xml>     </xml></p>  ",
+=======
+			"solution" : "    <math><mrow><mfrac><mrow><mi>F</mi><mo>â</mo><mn>32</mn></mrow><mrow><mn>180</mn></mrow></mfrac><mo>=</mo><mfrac><mi>C</mi><mrow><mn>100</mn></mrow></mfrac></mrow></math><xml>     </xml>  <p><math><mrow><mfrac><mrow><mi>F</mi><mo>â</mo><mn>32</mn></mrow><mn>9</mn></mfrac><mo>=</mo><mfrac><mi>C</mi><mn>5</mn></mfrac></mrow></math><xml>     </xml></p>  <p><math><mrow><mrow><mo>(</mo><mrow><mi>F</mi><mo>â</mo><mn>32</mn></mrow><mo>)</mo></mrow><mo>=</mo><mfrac><mrow><mn>9</mn><mi>C</mi></mrow><mn>5</mn></mfrac></mrow></math><xml>     </xml></p>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -1272,7 +1459,11 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    Motion  of a butterfly.  "
 			}, {
 			  "choiceid" : 3644603,
+<<<<<<< ours
 			  "choicetext" : "    An  aeroplane flying at a speed of <math><mrow><mn>750</mn><mtext> </mtext><mi>k</mi><mi>m</mi><mtext> </mtext><msup><mi>h</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></math><xml>     </xml>towards  north.  "
+=======
+			  "choicetext" : "    An  aeroplane flying at a speed of <math><mrow><mn>750</mn><mtext>â</mtext><mi>k</mi><mi>m</mi><mtext>â</mtext><msup><mi>h</mi><mrow><mo>â</mo><mn>1</mn></mrow></msup></mrow></math><xml>     </xml>towards  north.  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -1290,7 +1481,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 635003,
 			"sno" : 27,
+<<<<<<< ours
 			"questiontext" : "Density  of iron is <math><mrow><mn>8.5</mn><mtext> </mtext><mi>g</mi><mtext> </mtext><mi>c</mi><msup><mi>m</mi><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>,  then its density in SI system is",
+=======
+			"questiontext" : "Density  of iron is <math><mrow><mn>8.5</mn><mtext>â</mtext><mi>g</mi><mtext>â</mtext><mi>c</mi><msup><mi>m</mi><mrow><mo>â</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>,  then its density in SI system is",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L2(TECHNO CBATCH MEDICON MPL IPL)",
@@ -1311,6 +1506,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 4,
 			"questionchoices" : [ {
 			  "choiceid" : 3684067,
+<<<<<<< ours
 			  "choicetext" : "    <math><mrow><mn>8500</mn><mtext> </mtext><mi>k</mi><mi>g</mi><mtext> </mtext><msup><mi>m</mi><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
 			}, {
 			  "choiceid" : 3684068,
@@ -1321,6 +1517,18 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3684070,
 			  "choicetext" : "    <math><mrow><mn>85</mn><mtext> </mtext><mi>k</mi><mi>g</mi><mtext> </mtext><msup><mi>m</mi><mrow><mo>−</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    <math><mrow><mn>8500</mn><mtext>â</mtext><mi>k</mi><mi>g</mi><mtext>â</mtext><msup><mi>m</mi><mrow><mo>â</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3684068,
+			  "choicetext" : "    <math><mrow><mn>850</mn><mtext>â</mtext><mi>k</mi><mi>g</mi><mtext>â</mtext><msup><mi>m</mi><mrow><mo>â</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3684069,
+			  "choicetext" : "    <math><mrow><mn>8.5</mn><mtext>â</mtext><mi>k</mi><mi>g</mi><mtext>â</mtext><msup><mi>m</mi><mrow><mo>â</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
+			}, {
+			  "choiceid" : 3684070,
+			  "choicetext" : "    <math><mrow><mn>85</mn><mtext>â</mtext><mi>k</mi><mi>g</mi><mtext>â</mtext><msup><mi>m</mi><mrow><mo>â</mo><mn>3</mn></mrow></msup></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			} ],
 			"positiveMark" : 1.0,
 			"negativeMark" : 0.0,
@@ -1332,7 +1540,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mn>1</mn><mtext> </mtext><mi>g</mi><mo>/</mo><mi>c</mi><msup><mi>m</mi><mn>3</mn></msup><mo>=</mo><msup><mrow><mn>10</mn></mrow><mn>3</mn></msup><mi>k</mi><mi>g</mi><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml>  <p><math><mrow><mo>∴</mo><mtext> </mtext><mtext> </mtext><mn>8.5</mn><mi>g</mi><mo>/</mo><mi>c</mi><msup><mi>m</mi><mn>3</mn></msup><mo>=</mo><mn>8.5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mn>3</mn></msup><mi>k</mi><mi>g</mi><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml></p>  <p><math><mrow><mo>=</mo><mn>8500</mn><mtext> </mtext><mi>k</mi><mi>g</mi><mtext> </mtext><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml></p>  ",
+=======
+			"solution" : "    <math><mrow><mn>1</mn><mtext>â</mtext><mi>g</mi><mo>/</mo><mi>c</mi><msup><mi>m</mi><mn>3</mn></msup><mo>=</mo><msup><mrow><mn>10</mn></mrow><mn>3</mn></msup><mi>k</mi><mi>g</mi><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml>  <p><math><mrow><mo>â´</mo><mtext>â</mtext><mtext>â</mtext><mn>8.5</mn><mi>g</mi><mo>/</mo><mi>c</mi><msup><mi>m</mi><mn>3</mn></msup><mo>=</mo><mn>8.5</mn><mo>Ã</mo><msup><mrow><mn>10</mn></mrow><mn>3</mn></msup><mi>k</mi><mi>g</mi><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml></p>  <p><math><mrow><mo>=</mo><mn>8500</mn><mtext>â</mtext><mi>k</mi><mi>g</mi><mtext>â</mtext><mo>/</mo><msup><mi>m</mi><mn>3</mn></msup></mrow></math><xml>     </xml></p>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -1578,7 +1790,11 @@ class ExamPaper extends React.Component {
 		  }, {
 			"questionid" : 635047,
 			"sno" : 33,
+<<<<<<< ours
 			"questiontext" : "A  train leaves a station X at 5:00 pm and reaches to another station Y at  midnight.  Its speed is<math><mrow><mn>90</mn><mtext> </mtext><mi>k</mi><mi>m</mi><msup><mi>h</mi><mrow><mo>−</mo><mn>1</mn></mrow></msup></mrow></math><xml>     </xml>.  What is the distance between X and Y?",
+=======
+			"questiontext" : "A  train leaves a station X at 5:00 pm and reaches to another station Y at  midnight.  Its speed is<math><mrow><mn>90</mn><mtext>â</mtext><mi>k</mi><mi>m</mi><msup><mi>h</mi><mrow><mo>â</mo><mn>1</mn></mrow></msup></mrow></math><xml>     </xml>.  What is the distance between X and Y?",
+>>>>>>> theirs
 			"questiontypeid" : 1,
 			"questiontype" : "Straight Objective",
 			"difficultlevel" : "L1(TECHNO CBATCH MEDICON)",
@@ -1620,7 +1836,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    <math><mrow><mtext>distance</mtext><mo>=</mo><mi>s</mi><mi>p</mi><mi>e</mi><mi>e</mi><mi>d</mi><mo>×</mo><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi></mrow></math><xml>     </xml>  <p><math><mrow><mo>=</mo><mn>90</mn><mo>×</mo><mn>7</mn></mrow></math><xml>     </xml></p>  <p><math><mrow><mo>=</mo><mn>630</mn><mtext> </mtext><mi>k</mi><mi>m</mi></mrow></math><xml>     </xml></p>  ",
+=======
+			"solution" : "    <math><mrow><mtext>distance</mtext><mo>=</mo><mi>s</mi><mi>p</mi><mi>e</mi><mi>e</mi><mi>d</mi><mo>Ã</mo><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi></mrow></math><xml>     </xml>  <p><math><mrow><mo>=</mo><mn>90</mn><mo>Ã</mo><mn>7</mn></mrow></math><xml>     </xml></p>  <p><math><mrow><mo>=</mo><mn>630</mn><mtext>â</mtext><mi>k</mi><mi>m</mi></mrow></math><xml>     </xml></p>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -1647,6 +1867,7 @@ class ExamPaper extends React.Component {
 			"choicesperline" : 1,
 			"questionchoices" : [ {
 			  "choiceid" : 3710883,
+<<<<<<< ours
 			  "choicetext" : "    Low  – speed, winds and air pressure difference  "
 			}, {
 			  "choiceid" : 3710884,
@@ -1654,6 +1875,15 @@ class ExamPaper extends React.Component {
 			}, {
 			  "choiceid" : 3710885,
 			  "choicetext" : "    High  – speed winds and air pressure difference  "
+=======
+			  "choicetext" : "    Low  â speed, winds and air pressure difference  "
+			}, {
+			  "choiceid" : 3710884,
+			  "choicetext" : "    High  â speed winds  "
+			}, {
+			  "choiceid" : 3710885,
+			  "choicetext" : "    High  â speed winds and air pressure difference  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3710886,
 			  "choicetext" : "    Air  pressure difference  "
@@ -1716,7 +1946,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    The  estimated maximum wind speed reached 260 – 170 kmph in the core area which  produced a huge storm surge that led to se – level elevation of more than 20  feet.  ",
+=======
+			"solution" : "    The  estimated maximum wind speed reached 260 â 170 kmph in the core area which  produced a huge storm surge that led to se â level elevation of more than 20  feet.  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  } ]
@@ -1798,7 +2032,11 @@ class ExamPaper extends React.Component {
 			  "choicetext" : "    Acids are substances that dissociate in water to yield  electrically charged atoms or molecules called ions  "
 			}, {
 			  "choiceid" : 3796049,
+<<<<<<< ours
 			  "choicetext" : "    One of which is a hydrogen ion <math><mrow><mo>(</mo><msup><mi>H</mi><mo>+</mo></msup><mo>)</mo></mrow></math><xml>     </xml> and bases  ionize in water to yield hydroxide ions <math><mrow><mo>(</mo><mi>O</mi><msup><mi>H</mi><mo>−</mo></msup><mo>)</mo></mrow></math><xml>     </xml>  "
+=======
+			  "choicetext" : "    One of which is a hydrogen ion <math><mrow><mo>(</mo><msup><mi>H</mi><mo>+</mo></msup><mo>)</mo></mrow></math><xml>     </xml> and bases  ionize in water to yield hydroxide ions <math><mrow><mo>(</mo><mi>O</mi><msup><mi>H</mi><mo>â</mo></msup><mo>)</mo></mrow></math><xml>     </xml>  "
+>>>>>>> theirs
 			}, {
 			  "choiceid" : 3796050,
 			  "choicetext" : "    Both A and B  "
@@ -1816,7 +2054,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    Acids are substances that dissociate in water to yield  electrically charged atoms or molecules called ions.   <p>One of which is a hydrogen ion <math><mrow><mo>(</mo><msup><mi>H</mi><mo>+</mo></msup><mo>)</mo></mrow></math><xml>     </xml> and bases  ionize in water to yield hydroxide ions <math><mrow><mo>(</mo><mi>O</mi><msup><mi>H</mi><mo>−</mo></msup><mo>)</mo></mrow></math><xml>     </xml></p>  ",
+=======
+			"solution" : "    Acids are substances that dissociate in water to yield  electrically charged atoms or molecules called ions.   <p>One of which is a hydrogen ion <math><mrow><mo>(</mo><msup><mi>H</mi><mo>+</mo></msup><mo>)</mo></mrow></math><xml>     </xml> and bases  ionize in water to yield hydroxide ions <math><mrow><mo>(</mo><mi>O</mi><msup><mi>H</mi><mo>â</mo></msup><mo>)</mo></mrow></math><xml>     </xml></p>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
@@ -1864,7 +2106,11 @@ class ExamPaper extends React.Component {
 			"visit" : null,
 			"attempttime" : null,
 			"studentanswer" : null,
+<<<<<<< ours
 			"solution" : "    The measure of moisture in air of atmosphere is called  “humidity<b style='mso-bidi-font-weight:normal'>”.</b>  ",
+=======
+			"solution" : "    The measure of moisture in air of atmosphere is called  âhumidity<b style='mso-bidi-font-weight:normal'>â.</b>  ",
+>>>>>>> theirs
 			"hints" : [ ],
 			"subquestions" : [ ]
 		  }, {
